@@ -1,0 +1,18 @@
+#Git version control tracks changes in computer files
+# Distributed System - Everyone has a copy
+
+Whenever we edit files git creates a checkpoint.
+
+Many people can work on same project.
+
+#Create different branches and merge in master
+
+#GIT Commands
+
+git init #initialize empty git repo
+
+git add #add files to staging area
+
+git commit #add files from staging to commit
+
+
