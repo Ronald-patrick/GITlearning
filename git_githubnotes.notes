@@ -15,6 +15,7 @@ git add #add files to staging area
 
 git commit -m " " _ #add files from staging to commit
 
+git commit -am " " _ #add files directly to commit
 
 git status #info about files status
 
@@ -23,6 +24,8 @@ git rm --cached _ #remove files from staging area
 git branch _ #new branch from current branch
 
 git checkout _ #move to some branch
+
+git merge _branchname #merge to master
 
 #Workflow
 
