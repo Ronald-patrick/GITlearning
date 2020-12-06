@@ -44,11 +44,13 @@ merge ->local repo to directory
 
 #Pull = fetch+merge
 
-#github
+#Github
 
 #Pull request
 
-Merge branches to master
+"Merge branches to master"
+
+
 
 
 
