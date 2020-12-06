@@ -15,4 +15,6 @@ git add #add files to staging area
 
 git commit #add files from staging to commit
 
+git status #info about files status
+
 
