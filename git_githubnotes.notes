@@ -19,11 +19,13 @@ git status #info about files status
 
 git rm --cached _ #remove files from staging area
 
+git branch _ #new branch from current branch
+
 #Workflow
 
 add -> directory to staging area
 commit ->staging to local repo
-push ->local to remote repo
+push ->local repo to remote repo
 
 
 
