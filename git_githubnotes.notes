@@ -1,4 +1,5 @@
 #Git version control tracks changes in computer files
+
 # Distributed System - Everyone has a copy
 
 Whenever we edit files git creates a checkpoint.
@@ -12,6 +13,8 @@ Many people can work on same project.
 git init #initialize empty git repo
 
 git add #add files to staging area
+
+git add . #add all the files
 
 git commit -m " " _ #add files from staging to commit
 
@@ -41,6 +44,7 @@ push ->local repo to remote repo
 pull ->remote repo to directory
 fetch ->remote repo to local repo
 merge ->local repo to directory
+fork ->create personal copy of repo
 
 #Pull = fetch+merge
 
@@ -50,9 +54,10 @@ merge ->local repo to directory
 
 "Merge branches to master"
 
-
-
 git pull #Remote repo to local repo
+
+add file name to .gitignore to ignore files in git
+
 
 
 
