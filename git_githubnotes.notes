@@ -25,13 +25,30 @@ git branch _ #new branch from current branch
 
 git checkout _ #move to some branch
 
-git merge _branchname #merge to master
+git merge _branchname #merge branch
+
+git remote add origin <link> #add github repo link 
+
+git remote -v #list of remote repo
+
+git push -u origin master #push to remote repo
 
 #Workflow
 
 add -> directory to staging area
 commit ->staging to local repo
 push ->local repo to remote repo
+pull ->remote repo to directory
+fetch ->remote repo to local repo
+merge ->local repo to directory
+
+#Pull = fetch+merge
+
+#github
+
+#Pull request
+
+Merge branches to master
 
 
 
