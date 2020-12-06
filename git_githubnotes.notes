@@ -13,7 +13,8 @@ git init #initialize empty git repo
 
 git add #add files to staging area
 
-git commit _ #add files from staging to commit
+git commit -m " " _ #add files from staging to commit
+
 
 git status #info about files status
 
