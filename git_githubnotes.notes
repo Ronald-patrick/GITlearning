@@ -50,5 +50,7 @@ merge ->local repo to directory
 
 Merge branches to master
 
+git pull #Remote repo to local repo
+
 
 
