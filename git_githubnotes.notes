@@ -21,6 +21,8 @@ git rm --cached _ #remove files from staging area
 
 git branch _ #new branch from current branch
 
+git checkout _ #move to some branch
+
 #Workflow
 
 add -> directory to staging area
