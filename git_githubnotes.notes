@@ -52,5 +52,7 @@ merge ->local repo to directory
 
 
 
+git pull #Remote repo to local repo
+
 
 
